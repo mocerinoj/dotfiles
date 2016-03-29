@@ -1,0 +1,36 @@
+[user]
+	name = Joe Mocerino
+	email = joe@tntdental.com
+[alias]
+    a = add
+    br = branch
+    ci = commit
+    cl = clone
+    co = checkout
+    df = diff
+    lg = log -p
+    h = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    st = status
+    pl = pull
+    pr = pull --rebase
+    pu = push
+    r = remote
+    ru = remote update
+    sb = show-branch
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    ui = auto
+[merge]
+    tool = vimdiff
+[core]
+    pager = less -FRSX
+	editor = nano
+	excludesfile = /Users/joe/.gitignore
+[push]
+    default = tracking
+[branch]
+    autosetupmerge = true
+[credential]
+	helper = cache

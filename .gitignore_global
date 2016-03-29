@@ -1,0 +1,16 @@
+# ruby
+.env
+.bundle
+.ruby-version
+.powenv
+/log/*
+!/log/.keep
+/tmp
+/vendor/assets/bower_components
+
+# mac
+.DS_Store
+.*.swp
+.*.un~
+\#*#
+backups
