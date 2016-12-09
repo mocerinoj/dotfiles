@@ -38,3 +38,23 @@ ehthumbs.db
 Thumbs.db
 
 *.svn
+
+# Java
+.idea
+*.iml
+target
+
+# Eclipse
+.project
+.pydevproject
+.settings
+
+# Python
+.Python
+.ropeproject
+
+# Ruby
+.ruby-version
+.env
+.powenv
+.byebug_history
