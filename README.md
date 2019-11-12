@@ -7,6 +7,7 @@
 - oh-my-zsh
 - Posgresql mac app
 - Slack
+- SQLPro
 - Sublime Text
 - TopTracker
 - Tower
