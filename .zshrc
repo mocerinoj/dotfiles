@@ -1,5 +1,3 @@
-export HAPI_REPO_TOKEN=0498e6a3e8c20822582740939c2e29d2f997ac07
-
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
